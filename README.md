@@ -11,6 +11,8 @@
 
 [🌍 배포 링크](https://week3-table.herokuapp.com/)
 
+[⭐️ 후기 블로그](https://mu-mu-syo.tistory.com/66)
+
 [🖼 피그마 링크](https://www.figma.com/file/FiBRKXRGuUrwYbLWyiwY87/%EC%BD%9C%EB%A1%9C%EC%84%B8%EC%9B%80-%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98?node-id=0%3A1)
 
 <br />
